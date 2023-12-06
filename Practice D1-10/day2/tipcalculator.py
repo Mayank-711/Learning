@@ -1,0 +1,10 @@
+print("Day 2 Final Project")
+print("Tip Calculator")
+bill =input("What was the total bill? :")
+tip = input("What percetntage of tip would you like to offer 10,12,15:")
+person= input("How many people are there to split the bill:")
+
+totalbill= round(int(bill) + (int(bill) * int(tip)/100),2)
+split = round(int(totalbill)/int(person),2)
+print(f"Total Bill is {totalbill}")
+print(f"Each person should pay {split} rupees")
