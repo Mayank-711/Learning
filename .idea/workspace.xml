@@ -4,13 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c7b43382-6e9e-45af-8c2a-5409065446b9" name="Changes" comment="First Commit">
-      <change afterPath="$PROJECT_DIR$/Practice D1-10/day5/avgheight.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practice D1-10/day5/fizzbuzz.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practice D1-10/day5/highestscore.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practice D1-10/day5/passwordgenerator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practice D1-10/day5/sumofeven.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="c7b43382-6e9e-45af-8c2a-5409065446b9" name="Changes" comment="day5 end">
+      <change afterPath="$PROJECT_DIR$/Practice D1-10/day7/hangman.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice D1-10/day7/symbol.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice D1-10/day7/wordlist.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,21 +58,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "D:/pythongit",
-    "settings.editor.selected.configurable": "vcs.Git"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/pythongit&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;
   },
-  "keyToStringList": {
-    "ChangesTree.GroupingKeys": [
-      "directory",
-      "repository"
+  &quot;keyToStringList&quot;: {
+    &quot;ChangesTree.GroupingKeys&quot;: [
+      &quot;directory&quot;,
+      &quot;repository&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration>C:\Users\MAYANK MISHRA\AppData\Roaming\Subversion</configuration>
@@ -102,7 +101,15 @@
       <option name="project" value="LOCAL" />
       <updated>1701855495435</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="day5 end">
+      <option name="closed" value="true" />
+      <created>1701883826932</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1701883826932</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -133,6 +140,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="First Commit" />
+    <MESSAGE value="day5 end" />
+    <option name="LAST_COMMIT_MESSAGE" value="day5 end" />
   </component>
 </project>
