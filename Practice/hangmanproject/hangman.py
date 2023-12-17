@@ -21,6 +21,7 @@ while not endgame:
         print(symbol.stages[lives])
     elif lives==0:
         print("You Lose")
+        print(choosen_word)
         break
     print(",".join(display))
     if "_" in display:
