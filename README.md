@@ -1,2 +1,2 @@
 # Python-Learning
-This Repository contains all the programs & projects done while learning python from scratch
+This Repository contains all the programs & projects done while learning various languages from from scratch
