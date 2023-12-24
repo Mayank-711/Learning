@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c7b43382-6e9e-45af-8c2a-5409065446b9" name="Changes" comment="DAY 12">
-      <change afterPath="$PROJECT_DIR$/Practice Python/debugging/ex1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practice Python/debugging/ex2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practice Python/debugging/ex3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practice Python/debugging/main.py" afterDir="false" />
+    <list default="true" id="c7b43382-6e9e-45af-8c2a-5409065446b9" name="Changes" comment="DAY 13">
+      <change afterPath="$PROJECT_DIR$/Practice Python/higherlowergame/art.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice Python/higherlowergame/data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice Python/higherlowergame/maingame.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -165,7 +164,15 @@
       <option name="project" value="LOCAL" />
       <updated>1703413210482</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="DAY 13">
+      <option name="closed" value="true" />
+      <created>1703442026867</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1703442026867</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -202,6 +209,7 @@
     <MESSAGE value="DAY 10" />
     <MESSAGE value="DAY 11" />
     <MESSAGE value="DAY 12" />
-    <option name="LAST_COMMIT_MESSAGE" value="DAY 12" />
+    <MESSAGE value="DAY 13" />
+    <option name="LAST_COMMIT_MESSAGE" value="DAY 13" />
   </component>
 </project>
