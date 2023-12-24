@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c7b43382-6e9e-45af-8c2a-5409065446b9" name="Changes" comment="DAY 9">
-      <change afterPath="$PROJECT_DIR$/Practice Python/fnwithoutputs/daysinmonth.py" afterDir="false" />
+    <list default="true" id="c7b43382-6e9e-45af-8c2a-5409065446b9" name="Changes" comment="DAY 10">
+      <change afterPath="$PROJECT_DIR$/Practice Python/blackjack/blackjack.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice Python/blackjack/ui.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -138,7 +139,15 @@
       <option name="project" value="LOCAL" />
       <updated>1703154510904</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="DAY 10">
+      <option name="closed" value="true" />
+      <created>1703232966172</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1703232966172</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -172,6 +181,7 @@
     <MESSAGE value="day5 end" />
     <MESSAGE value="renaming" />
     <MESSAGE value="DAY 9" />
-    <option name="LAST_COMMIT_MESSAGE" value="DAY 9" />
+    <MESSAGE value="DAY 10" />
+    <option name="LAST_COMMIT_MESSAGE" value="DAY 10" />
   </component>
 </project>
