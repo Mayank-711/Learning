@@ -5,10 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c7b43382-6e9e-45af-8c2a-5409065446b9" name="Changes" comment="Baic OOps">
-      <change afterPath="$PROJECT_DIR$/Practice Python/harry and gfg/recursion.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practice Python/harry and gfg/setmethods.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice Python/mosh/exception.py" beforeDir="false" afterPath="$PROJECT_DIR$/Practice Python/mosh/exception.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -188,7 +185,15 @@
       <option name="project" value="LOCAL" />
       <updated>1703606455531</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Baic OOps">
+      <option name="closed" value="true" />
+      <created>1703610238407</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1703610238407</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
