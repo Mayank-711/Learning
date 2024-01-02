@@ -9,8 +9,13 @@
     <h1>Student Response Form</h1>
     <form action="/action.php">
         <h3>Personal Info</h3>
-        <input type="text" placeholder="Enter Your Name">
-        <input type="password" placeholder="Enter your password">
+        <input type="text" placeholder="Enter Your Name"><br>
+        <input type="password" placeholder="Enter your password"><br>
+        <select name="city" id ="city">
+            <option value="Delhi"> Delhi</option>
+            <option value="Mumbai">Mumbai</option>
+            <option value="Chennai">Chennai</option>
+        </select>
         <hr>
         <h3>Standard & Div</h3>
             <input type="radio" value="Class XI" name="class" id="101">Class XI
@@ -24,6 +29,10 @@
         <input type="checkbox" value="Chem">Chemistry<br>
         <input type="checkbox" value="Math">Mathematics<br>
         <input type="checkbox" value="CS">Computer Science
+        <hr>
+        <h3>Your Response</h3>
+        <textarea name ="feedback" rows="5" cols="20">Enter Your feedback
+        </textarea>
     </form>
 </body>
 </html>
