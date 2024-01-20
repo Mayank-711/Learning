@@ -1,0 +1,28 @@
+#Q1{
+    background-color: green;
+    border-radius: 50%;
+    height: 100px;
+    text-align: center;
+    padding-top: 50px;
+    margin: 50px;
+}
+#Q2{
+    background-color: black;
+    color: white;
+    height: 70px;
+    border: 5px solid white;
+    padding-top: 10px;
+    font-size: large;
+}
+body{
+    background-color: black;
+}
+button{
+    background-color: orange;
+}
+td{
+   padding-left: 150px;
+}
+#startext{
+    padding-left: 20px;
+}
