@@ -1,0 +1,50 @@
+#header{
+    background-color: black;
+    color: white;
+    height: 70px;
+    font-size: large;
+    padding-top: 10px;
+    border: 5px solid white;
+}
+button{
+    background-color: orange;
+}
+td{
+   padding-right: 130px;
+}
+#startext{
+    padding-left: 20px;
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+#one{
+    height: 100px;
+    width: 100px;
+    background-color: rgba(255,0,0,0.5);
+    border: 10px solid black;
+}
+#two{
+    height: 100px;
+    width: 100px;
+    background-color: rgba(0,255,0,0.5);
+    border: 10px solid black;
+}
+#three{
+    height: 100px;
+    width: 100px;
+    background-color: rgba(0,0,255,0.5);
+    border: 10px solid black;
+}
+#one,#two,#three{
+    height: 300px;
+    display: inline-block;
+    margin: 50px;
+}
+#footer{
+    color: white;
+    text-align: center;
+    background-color: black;
+    height: 100px;
+}
