@@ -4,9 +4,15 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Play</title>
+    <style>
+        .huge {
+            font-size: 10rem;
+        }
+    </style>
 </head>
 <body>
     <h1>Hey</h1>
+    <p>Hello</p>
     <button type="button" name="click">Click me</button>
     <input type="checkbox" id="check">
 
@@ -17,8 +23,10 @@
 
         button.addEventListener("click", function() {
             check.click();
+            heading.innerHTML="Hello";
             heading.style.color = "red";
         });
+        document.querySelector("button").style.backgroundColor="yellow";
     </script>
 </body>
 </html>
