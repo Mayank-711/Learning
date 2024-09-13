@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Play</title>
+</head>
+<body>
+    <h1>Hey</h1>
+    <button type="button" name="click">Click me</button>
+    <input type="checkbox" id="check">
+
+    <script>
+        var heading = document.querySelector("h1");
+        var check = document.querySelector("#check");
+        var button = document.querySelector("button");
+
+        button.addEventListener("click", function() {
+            check.click();
+            heading.style.color = "red";
+        });
+    </script>
+</body>
+</html>
