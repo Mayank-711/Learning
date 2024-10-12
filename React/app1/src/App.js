@@ -1,3 +1,4 @@
+import './style.css'
 const fname = 'Mayank';
 const lname = 'Mishra';
 const age = 20;
@@ -5,11 +6,11 @@ const age = 20;
 function App() {
   return (
     <>
-      <h1>Kilua Coder</h1>
+      <h1 contentEditable= "true" spellCheck="false">Kilua Coder </h1>
       <ul>
-        <li>Hunter X Hunter</li>
-        <li>Naruto</li>
-        <li>One Piece</li>
+        <li><img class="banner" src='https://m.media-amazon.com/images/M/MV5BYzYxOTlkYzctNGY2MC00MjNjLWIxOWMtY2QwYjcxZWIwMmEwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg'></img></li>
+        <li><img class ="banner" src='https://m.media-amazon.com/images/M/MV5BZTNjOWI0ZTAtOGY1OS00ZGU0LWEyOWYtMjhkYjdlYmVjMDk2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg'></img></li>
+        <li><img class ="banner" src ='https://m.media-amazon.com/images/M/MV5BMTNjNGU4NTUtYmVjMy00YjRiLTkxMWUtNzZkMDNiYjZhNmViXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg'></img></li>
       </ul>
     </>
   );
@@ -18,7 +19,7 @@ function App() {
 function Names() {
   return (
     <>
-      <h1>Hello {fname} {lname}</h1>
+      <h1 class="heading">Hello {fname} {lname}</h1>
       <p>Your age is {age}</p>
     </>
   );
